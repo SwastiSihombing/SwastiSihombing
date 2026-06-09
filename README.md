@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Swasti Maristella Sihombing
+# Swasti Maristella Sihombing
 
 *Turning data into stories, pixels into experiences*
 
